@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+message EmptyMessage {}
+
+message Data {
+    int32 field_2 = 2;
+    EmptyMessage field_5 = 5;
+    EmptyMessage field_6 = 6;
+    string field_8 = 8;
+    int32 field_9 = 9;
+    EmptyMessage field_11 = 11;
+    EmptyMessage field_12 = 12;
+}
