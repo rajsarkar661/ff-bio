@@ -1,4 +1,0 @@
-python-telegram-bot==20.3
-requests
-pycryptodome
-protobuf==4.22.0
